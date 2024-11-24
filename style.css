@@ -1,0 +1,35 @@
+
+body {
+    background-color: #a97fff;
+    color: #0721ea;
+    font-family: "Bokor", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #0721ea;
+    color: #a97fff;
+    font-family: "Bokor", serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 80%;
+    
+}
